@@ -1,3 +1,3 @@
 <view>
-    home
+    <van-search value="{{ value }}" placeholder="请输入搜索关键词" />
 </view>
